@@ -1,4 +1,4 @@
-# Transaction Lakehouse Pipeline
+# Transactional Analytics Lakehouse Pipeline
 
 Проект реализует lakehouse-пайплайн для обработки транзакций, отмен и курсов валют с последующей загрузкой агрегированного OLAP-куба в ClickHouse для визуализации в Superset.
 
